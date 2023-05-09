@@ -14,4 +14,4 @@ My GitHub page is http://github.com/mariixxana.
 
 * Lab #1
 
-    Lab, part was another favorite for me. This is because this was the first lab I ever did in this class and gave me a view on what we would be doing this semester. I got learn and find my way through GitHub and how to use VS code because I had no prior experience with coding. Since it was simple, I liked being able to focus on how to use the programs. 
+    Lab 1, was another favorite for me. This is because this was the first lab I ever did in this class and gave me a view on what we would be doing this semester. I got learn and find my way through GitHub and how to use VS code because I had no prior experience with coding. Since it was simple, I liked being able to focus on how to use the programs. 
