@@ -4,7 +4,7 @@ This is my home page! My name is Mariana Vazquez and I am a student at [Cal Stat
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/your_username.
+My GitHub page is http://github.com/mariixxana.
 
 ### CPSC 120
 
