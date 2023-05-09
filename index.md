@@ -14,4 +14,4 @@ My GitHub page is http://github.com/mariixxana.
 
 * Lab 
 
-    Lab , part was another favorite for me. This is because 
+    Lab, part was another favorite for me. This is because 
